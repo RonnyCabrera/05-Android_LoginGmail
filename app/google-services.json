@@ -8,6 +8,54 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:862778103502:android:73985696edcc5d17",
+        "android_client_info": {
+          "package_name": "com.example.ronnycabrera.logingmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862778103502-d6v83cb5vkv3cp1dj1vv75njj2qj6ub5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ronnycabrera.logingmail",
+            "certificate_hash": "71e5f2cc1c093c1c1ec3b530e6b3308a74d460e3"
+          }
+        },
+        {
+          "client_id": "862778103502-jcbk0kdc4vcmce4q9uqtbo66177sjd8h.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "862778103502-jcbk0kdc4vcmce4q9uqtbo66177sjd8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADPLnMSmwwUaiMHth9XEwz2dXwnf3Vkm0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862778103502-jcbk0kdc4vcmce4q9uqtbo66177sjd8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:862778103502:android:b551037a630da646",
         "android_client_info": {
           "package_name": "com.example.usrgam.logingmail"
@@ -21,6 +69,10 @@
             "package_name": "com.example.usrgam.logingmail",
             "certificate_hash": "060330fc05bd9e7f6b6ce2be8f023ee1ac541747"
           }
+        },
+        {
+          "client_id": "862778103502-jcbk0kdc4vcmce4q9uqtbo66177sjd8h.apps.googleusercontent.com",
+          "client_type": 3
         },
         {
           "client_id": "862778103502-jcbk0kdc4vcmce4q9uqtbo66177sjd8h.apps.googleusercontent.com",
